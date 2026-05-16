@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+backend/venv/
+
+# Model artifacts
+*.pt
+
+# Jupyter notebooks and local notebooks
+*.ipynb
+
+# VS Code files
+.vscode/
+
+# MacOS metadata
+.DS_Store

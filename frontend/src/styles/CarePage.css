@@ -1,0 +1,357 @@
+.care-page {
+  display: grid;
+  gap: 2rem;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.84);
+  border: 1px solid rgba(148, 163, 184, 0.14);
+  box-shadow: 0 28px 70px rgba(15, 23, 42, 0.06);
+  backdrop-filter: blur(18px);
+  border-radius: 32px;
+}
+
+.care-hero-card {
+  padding: 2rem;
+}
+
+.hero-copy {
+  max-width: 52rem;
+}
+
+.hero-copy .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  color: #256d49;
+  font-size: 0.88rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.hero-copy h2 {
+  margin: 1rem 0 0.8rem;
+  font-size: clamp(2rem, 2.5vw, 3.2rem);
+  line-height: 1.02;
+  letter-spacing: -0.04em;
+  color: #0f172a;
+}
+
+.hero-copy p {
+  max-width: 42rem;
+  color: #475569;
+  line-height: 1.85;
+  font-size: 1rem;
+}
+
+.diagnosis-hero {
+  margin-top: 2.25rem;
+  display: grid;
+  gap: 1.8rem;
+}
+
+.diagnosis-top {
+  display: grid;
+  grid-template-columns: 1.6fr 0.9fr;
+  gap: 1.4rem;
+  align-items: center;
+}
+
+.diagnosis-label {
+  font-size: 0.92rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: #256d49;
+  font-weight: 800;
+}
+
+.diagnosis-top h3 {
+  margin: 0.8rem 0 0.6rem;
+  font-size: 2rem;
+  color: #0f172a;
+}
+
+.diagnosis-note {
+  color: #475569;
+  line-height: 1.75;
+}
+
+.gauge-card {
+  display: grid;
+  place-items: center;
+  padding: 1.6rem;
+  border-radius: 30px;
+  background: rgba(214, 247, 239, 0.8);
+  border: 1px solid rgba(34, 197, 94, 0.18);
+}
+
+.gauge-ring {
+  width: 9rem;
+  height: 9rem;
+  border-radius: 50%;
+  border: 1px solid rgba(37, 99, 235, 0.12);
+  background: radial-gradient(circle at 30% 30%, rgba(34, 197, 94, 0.13), transparent 45%);
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+
+.gauge-ring::before {
+  content: '';
+  position: absolute;
+  inset: 0.8rem;
+  border-radius: 50%;
+  border: 10px solid rgba(37, 99, 235, 0.14);
+}
+
+.gauge-ring::after {
+  content: '';
+  position: absolute;
+  inset: 2.4rem;
+  border-radius: 50%;
+  border: 6px solid #ffffff;
+}
+
+.gauge-value {
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #0f172a;
+}
+
+.gauge-label {
+  margin-top: 0.8rem;
+  color: #475569;
+  font-size: 0.95rem;
+}
+
+.diagnosis-details {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.4rem;
+}
+
+.diagnosis-details div {
+  padding: 1.4rem;
+  border-radius: 24px;
+  border: 1px solid rgba(148, 163, 184, 0.14);
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.diagnosis-details p {
+  margin: 0;
+  color: #64748b;
+  font-size: 0.94rem;
+}
+
+.diagnosis-details strong {
+  display: block;
+  margin-top: 0.8rem;
+  color: #0f172a;
+  font-size: 1rem;
+}
+
+.care-layout {
+  display: grid;
+  grid-template-columns: 1.55fr 0.95fr;
+  gap: 1.75rem;
+}
+
+.timeline-card,
+.score-card,
+.expert-card {
+  padding: 1.8rem;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.8rem;
+}
+
+.section-header span {
+  display: inline-block;
+  color: #256d49;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.section-header h3 {
+  margin: 0.45rem 0 0;
+  font-size: 1.65rem;
+  line-height: 1.1;
+  color: #0f172a;
+}
+
+.pill-button {
+  border: none;
+  border-radius: 999px;
+  padding: 0.95rem 1.45rem;
+  background: rgba(37, 99, 235, 0.08);
+  color: #1d4ed8;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.pill-button:hover {
+  transform: translateY(-1px);
+  background: rgba(37, 99, 235, 0.14);
+}
+
+.timeline-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.timeline-step {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1.4rem;
+  border-radius: 24px;
+  border: 1px solid rgba(148, 163, 184, 0.14);
+  background: rgba(255, 255, 255, 0.88);
+}
+
+.timeline-badge {
+  min-width: 2.6rem;
+  min-height: 2.6rem;
+  border-radius: 16px;
+  display: grid;
+  place-items: center;
+  background: rgba(34, 197, 94, 0.1);
+  color: #166534;
+  font-weight: 700;
+}
+
+.timeline-step h4 {
+  margin: 0;
+  font-size: 1.05rem;
+  color: #0f172a;
+}
+
+.timeline-step p {
+  margin: 0.45rem 0 0;
+  color: #475569;
+  line-height: 1.8;
+}
+
+.score-card {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.score-visual {
+  display: grid;
+  gap: 1rem;
+}
+
+.score-visual svg {
+  width: 100%;
+  height: 120px;
+  overflow: visible;
+}
+
+.score-summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.score-summary strong {
+  font-size: 2.4rem;
+  color: #0f172a;
+}
+
+.score-summary p {
+  margin: 0;
+  color: #475569;
+}
+
+.expert-card {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.expert-header span {
+  color: #256d49;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.expert-header h3 {
+  margin: 0.65rem 0 0;
+  font-size: 1.6rem;
+  color: #0f172a;
+}
+
+.expert-chats {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.chat-item {
+  padding: 1rem 1.1rem;
+  border-radius: 24px;
+  max-width: 100%;
+  line-height: 1.7;
+}
+
+.chat-item.received {
+  background: rgba(240, 253, 244, 0.95);
+  color: #0f172a;
+}
+
+.chat-item.sent {
+  background: rgba(236, 239, 255, 0.95);
+  color: #334155;
+  justify-self: end;
+}
+
+.chat-action {
+  border: none;
+  border-radius: 999px;
+  padding: 1rem 1.4rem;
+  background: #2563eb;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.chat-action:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 18px 40px rgba(37, 99, 235, 0.18);
+}
+
+@media (max-width: 960px) {
+  .diagnosis-top,
+  .care-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .diagnosis-details {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .care-hero-card,
+  .timeline-card,
+  .score-card,
+  .expert-card {
+    padding: 1.4rem;
+  }
+
+  .care-layout {
+    gap: 1rem;
+  }
+}

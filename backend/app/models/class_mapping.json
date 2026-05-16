@@ -1,0 +1,306 @@
+{
+  "0": {
+    "combined_label": "Apple___Apple_scab",
+    "plant_name": "Apple",
+    "disease_name": "Apple scab",
+    "is_healthy": false,
+    "summary": "Signs of apple scab were detected on the apple leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "1": {
+    "combined_label": "Apple___Black_rot",
+    "plant_name": "Apple",
+    "disease_name": "Black rot",
+    "is_healthy": false,
+    "summary": "Signs of black rot were detected on the apple leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "2": {
+    "combined_label": "Apple___Cedar_apple_rust",
+    "plant_name": "Apple",
+    "disease_name": "Cedar apple rust",
+    "is_healthy": false,
+    "summary": "Signs of cedar apple rust were detected on the apple leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "3": {
+    "combined_label": "Apple___healthy",
+    "plant_name": "Apple",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Apple.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "4": {
+    "combined_label": "Blueberry___healthy",
+    "plant_name": "Blueberry",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Blueberry.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "5": {
+    "combined_label": "Cherry_(including_sour)___Powdery_mildew",
+    "plant_name": "Cherry (including sour)",
+    "disease_name": "Powdery mildew",
+    "is_healthy": false,
+    "summary": "Signs of powdery mildew were detected on the cherry (including sour) leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "6": {
+    "combined_label": "Cherry_(including_sour)___healthy",
+    "plant_name": "Cherry (including sour)",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Cherry (including sour).",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "7": {
+    "combined_label": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "plant_name": "Corn (maize)",
+    "disease_name": "Cercospora leaf spot Gray leaf spot",
+    "is_healthy": false,
+    "summary": "Signs of cercospora leaf spot gray leaf spot were detected on the corn (maize) leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "8": {
+    "combined_label": "Corn_(maize)___Common_rust_",
+    "plant_name": "Corn (maize)",
+    "disease_name": "Common rust",
+    "is_healthy": false,
+    "summary": "Signs of common rust were detected on the corn (maize) leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "9": {
+    "combined_label": "Corn_(maize)___Northern_Leaf_Blight",
+    "plant_name": "Corn (maize)",
+    "disease_name": "Northern Leaf Blight",
+    "is_healthy": false,
+    "summary": "Signs of northern leaf blight were detected on the corn (maize) leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "10": {
+    "combined_label": "Corn_(maize)___healthy",
+    "plant_name": "Corn (maize)",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Corn (maize).",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "11": {
+    "combined_label": "Grape___Black_rot",
+    "plant_name": "Grape",
+    "disease_name": "Black rot",
+    "is_healthy": false,
+    "summary": "Signs of black rot were detected on the grape leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "12": {
+    "combined_label": "Grape___Esca_(Black_Measles)",
+    "plant_name": "Grape",
+    "disease_name": "Esca (Black Measles)",
+    "is_healthy": false,
+    "summary": "Signs of esca (black measles) were detected on the grape leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "13": {
+    "combined_label": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "plant_name": "Grape",
+    "disease_name": "Leaf blight (Isariopsis Leaf Spot)",
+    "is_healthy": false,
+    "summary": "Signs of leaf blight (isariopsis leaf spot) were detected on the grape leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "14": {
+    "combined_label": "Grape___healthy",
+    "plant_name": "Grape",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Grape.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "15": {
+    "combined_label": "Orange___Haunglongbing_(Citrus_greening)",
+    "plant_name": "Orange",
+    "disease_name": "Haunglongbing (Citrus greening)",
+    "is_healthy": false,
+    "summary": "Signs of haunglongbing (citrus greening) were detected on the orange leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "16": {
+    "combined_label": "Peach___Bacterial_spot",
+    "plant_name": "Peach",
+    "disease_name": "Bacterial spot",
+    "is_healthy": false,
+    "summary": "Signs of bacterial spot were detected on the peach leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "17": {
+    "combined_label": "Peach___healthy",
+    "plant_name": "Peach",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Peach.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "18": {
+    "combined_label": "Pepper,_bell___Bacterial_spot",
+    "plant_name": "Pepper, bell",
+    "disease_name": "Bacterial spot",
+    "is_healthy": false,
+    "summary": "Signs of bacterial spot were detected on the pepper, bell leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "19": {
+    "combined_label": "Pepper,_bell___healthy",
+    "plant_name": "Pepper, bell",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Pepper, bell.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "20": {
+    "combined_label": "Potato___Early_blight",
+    "plant_name": "Potato",
+    "disease_name": "Early blight",
+    "is_healthy": false,
+    "summary": "Signs of early blight were detected on the potato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "21": {
+    "combined_label": "Potato___Late_blight",
+    "plant_name": "Potato",
+    "disease_name": "Late blight",
+    "is_healthy": false,
+    "summary": "Signs of late blight were detected on the potato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "22": {
+    "combined_label": "Potato___healthy",
+    "plant_name": "Potato",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Potato.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "23": {
+    "combined_label": "Raspberry___healthy",
+    "plant_name": "Raspberry",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Raspberry.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "24": {
+    "combined_label": "Soybean___healthy",
+    "plant_name": "Soybean",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Soybean.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "25": {
+    "combined_label": "Squash___Powdery_mildew",
+    "plant_name": "Squash",
+    "disease_name": "Powdery mildew",
+    "is_healthy": false,
+    "summary": "Signs of powdery mildew were detected on the squash leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "26": {
+    "combined_label": "Strawberry___Leaf_scorch",
+    "plant_name": "Strawberry",
+    "disease_name": "Leaf scorch",
+    "is_healthy": false,
+    "summary": "Signs of leaf scorch were detected on the strawberry leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "27": {
+    "combined_label": "Strawberry___healthy",
+    "plant_name": "Strawberry",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Strawberry.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  },
+  "28": {
+    "combined_label": "Tomato___Bacterial_spot",
+    "plant_name": "Tomato",
+    "disease_name": "Bacterial spot",
+    "is_healthy": false,
+    "summary": "Signs of bacterial spot were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "29": {
+    "combined_label": "Tomato___Early_blight",
+    "plant_name": "Tomato",
+    "disease_name": "Early blight",
+    "is_healthy": false,
+    "summary": "Signs of early blight were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "30": {
+    "combined_label": "Tomato___Late_blight",
+    "plant_name": "Tomato",
+    "disease_name": "Late blight",
+    "is_healthy": false,
+    "summary": "Signs of late blight were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "31": {
+    "combined_label": "Tomato___Leaf_Mold",
+    "plant_name": "Tomato",
+    "disease_name": "Leaf Mold",
+    "is_healthy": false,
+    "summary": "Signs of leaf mold were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "32": {
+    "combined_label": "Tomato___Septoria_leaf_spot",
+    "plant_name": "Tomato",
+    "disease_name": "Septoria leaf spot",
+    "is_healthy": false,
+    "summary": "Signs of septoria leaf spot were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "33": {
+    "combined_label": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "plant_name": "Tomato",
+    "disease_name": "Spider mites Two-spotted spider mite",
+    "is_healthy": false,
+    "summary": "Signs of spider mites two-spotted spider mite were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "34": {
+    "combined_label": "Tomato___Target_Spot",
+    "plant_name": "Tomato",
+    "disease_name": "Target Spot",
+    "is_healthy": false,
+    "summary": "Signs of target spot were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "35": {
+    "combined_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "plant_name": "Tomato",
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "is_healthy": false,
+    "summary": "Signs of tomato yellow leaf curl virus were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "36": {
+    "combined_label": "Tomato___Tomato_mosaic_virus",
+    "plant_name": "Tomato",
+    "disease_name": "Tomato mosaic virus",
+    "is_healthy": false,
+    "summary": "Signs of tomato mosaic virus were detected on the tomato leaf.",
+    "recommended_next_step": "Isolate the affected plant, remove badly damaged leaves, and treat with the appropriate fungicide or pesticide."
+  },
+  "37": {
+    "combined_label": "Tomato___healthy",
+    "plant_name": "Tomato",
+    "disease_name": "healthy",
+    "is_healthy": true,
+    "summary": "The leaf appears healthy for Tomato.",
+    "recommended_next_step": "Continue regular care, hydration, and monitoring."
+  }
+}

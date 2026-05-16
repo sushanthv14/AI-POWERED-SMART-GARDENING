@@ -1,0 +1,30 @@
+{
+  "plants": [
+    {
+      "id": "plant_001",
+      "nickname": "Balcony Tomato",
+      "plant_name": "Tomato",
+      "disease_status": "Early Blight",
+      "health_score": 62,
+      "last_watered": "2026-05-13",
+      "growth_logs": []
+    },
+    {
+      "id": "plant_002",
+      "nickname": "Patio Potato",
+      "plant_name": "Potato",
+      "disease_status": "Late Blight",
+      "health_score": 58,
+      "last_watered": "2026-05-12",
+      "growth_logs": [
+        {
+          "id": "log_001",
+          "date": "2026-05-14",
+          "height_cm": 18,
+          "leaf_count": 9,
+          "notes": "Two new leaves observed."
+        }
+      ]
+    }
+  ]
+}

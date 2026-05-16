@@ -1,0 +1,35 @@
+{
+  "tomato": {
+    "plant_name": "Tomato",
+    "watering_policy": "Water when the top 2 cm of soil feels dry.",
+    "fertilizer_advice": "Use balanced NPK fertilizer once every 2 weeks.",
+    "soil_advice": "Well-draining loamy soil with compost is recommended.",
+    "sunlight_advice": "Provide 6 to 8 hours of sunlight daily.",
+    "soil_types": ["loamy", "sandy loam"],
+    "sunlight": ["high", "medium"],
+    "prefers_outdoor": false,
+    "common_diseases": ["Early Blight", "Late Blight", "Septoria Leaf Spot"]
+  },
+  "potato": {
+    "plant_name": "Potato",
+    "watering_policy": "Keep soil evenly moist, but avoid waterlogging.",
+    "fertilizer_advice": "Apply phosphorus-rich fertilizer during tuber formation.",
+    "soil_advice": "Loose, well-draining loamy soil with good organic matter is best.",
+    "sunlight_advice": "Provide 4 to 6 hours of sunlight daily.",
+    "soil_types": ["loamy", "sandy loam"],
+    "sunlight": ["medium", "high"],
+    "prefers_outdoor": true,
+    "common_diseases": ["Late Blight", "Common Scab", "Blackleg"]
+  },
+  "corn": {
+    "plant_name": "Corn/Maize",
+    "watering_policy": "Water regularly in hot weather and allow soil to drain.",
+    "fertilizer_advice": "Use nitrogen-rich fertilizer at early growth stages.",
+    "soil_advice": "Rich, well-draining soil with steady moisture retention is recommended.",
+    "sunlight_advice": "Provide full sun with at least 6 hours daily.",
+    "soil_types": ["loamy", "sandy loam"],
+    "sunlight": ["high"],
+    "prefers_outdoor": true,
+    "common_diseases": ["Northern Corn Leaf Blight", "Gray Leaf Spot"]
+  }
+}
