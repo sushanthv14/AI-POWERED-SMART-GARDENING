@@ -18,7 +18,14 @@ app = FastAPI(
 # Configure CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    aallow_origins=["*"],
+    allow_origins=[
+        "http://localhost:3000",
+        "http://localhost:3001",
+        "https://ai-powered-smart-gardening.vercel.app",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(predict_router, prefix="/predict", tags=["predict"])
